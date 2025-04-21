@@ -1,17 +1,18 @@
 # Arrays em JavaScript
 
 ## O que é um array?
-É uma lista de elementos. Cada item tem um índice (posição).
+É uma lista de elementos. Cada item (elemento) tem um índice (posição).
 
 ## Sintaxe:
 ```js
 
+Plano de 7 Dias – Domine Arrays, Objetos e Funções (coemecei hoje: 21/04/2025)
 
 let frutas = ['banana', 'maçã', 'uva'];
 console.log(frutas[0]); // banana
 
 let esportes =['futebol', 'basquete', 'surf'];
-console.log(esportes[2]);
+console.log(esportes[2]); //Surf
 
 
 
