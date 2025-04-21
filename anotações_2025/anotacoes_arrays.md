@@ -27,6 +27,6 @@ Exercício que fiz:
 Criei uma lista de nomes e imprimi todos com for.
 
 let nomes = ['Ana', 'João', 'Carlos'];
-for (let lista = 0; listai < nomes.length; i++) {
-  console.log(nomes[i]);
+for (let lista = 0; lista < nomes.length; lista++) {
+  console.log(nomes[lista]);
 }
