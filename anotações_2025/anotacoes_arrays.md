@@ -30,3 +30,5 @@ let nomes = ['Ana', 'João', 'Carlos'];
 for (let lista = 0; lista < nomes.length; lista++) {
   console.log(nomes[lista]);
 }
+
+ao final dos estudos fiz alguns exercicios de Arrays + Lopps (for,while e do while)
