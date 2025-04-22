@@ -17,5 +17,5 @@ let teste = [...jogadores, 'Pulgar','Rossi']
 console.log(teste);
 
 let frutas = ["banana","maça","abacate","pera","uva"];
-let fruta3 = frutas.slice(2,3);
-console.log(`As terceira fruta é: ${fruta3}`);
+let fruta3 = frutas.slice(0,1);
+console.log(`A primeira fruta é: ${fruta3}`);
