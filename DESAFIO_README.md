@@ -13,12 +13,16 @@ Criar arrays
 
 Acessar elementos
 
-Métodos: push, pop, length, splice
+Métodos: push, pop, unshift, shift, length, splice e spreedoperator
 
 ✅ Prática:
 Criar um array com 5 frutas
+let frutas = ["banana","maça","abacate","pera","uva"];
 
 Mostrar a 3ª fruta
+let frutas = ["banana","maça","abacate","pera","uva"];
+let fruta3 = frutas.splice[2];
+console.log(`As terceira fruta é: ${fruta3});
 
 Adicionar uma fruta
 

@@ -12,3 +12,6 @@ for (let lista = 0; lista < nomes.length; lista++) {
   console.log(nomes[lista]);
 }
 
+//nomes.unshift("Mírian","André")
+let nomesNovos = [...nomes, 'André','Mírian']
+console.log(nomesNovos);
