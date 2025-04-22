@@ -24,6 +24,8 @@ unshift() adiciona item no inicio da lista (array)
 
 shift() Remove item do inicio da lista
 
+splice() exclui itens em posições especificas de uma lista (array)
+
 slice() copia somente itens especificos de uma lista (array)
 
 spreedoperator() cópia toda lista e ainda diciona itens novos
