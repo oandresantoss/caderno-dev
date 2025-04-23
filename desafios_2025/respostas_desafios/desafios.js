@@ -1,13 +1,13 @@
 /* Desafio 01 */
-let lutador = 'Fedor Vladimirovich Emelianenko'
-let nacionalidade = 'Russo'
-let idade = 44
+let lutador = 'André Santos'
+let nacionalidade = 'Brasileiro'
+let idade = 37
 let peso = 106
 let altura = 1.83
 
 document.write(`<div class="card">
                 <h2>Lutador</h2>
-                <img src="../images/andre.jpg">
+                <img src="./images/andre.jpg" alt="Foto do Lutador">
                 <p>${lutador} </p>
                 <p>${nacionalidade} </p>
                 <p>${idade} anos </p>
