@@ -18,18 +18,24 @@ let resultado = `
 `;
 
 //Desasfio 02
-let frasedoDia = {
-    data: '10/09/2021',
+// Desafio 02
+const fraseDoDia = {
+    dia: 10,
+    mes: 9,
+    ano: 2025,
     frase: 'A vingança nunca é plena, mata a alma e a envenena',
     autor: 'Dede Delazueira',
-};
-
-resultado += `
-    <h2>Frase do Dia</h2> 
-    ${frasedoDia.data}<br>
-    ${frasedoDia.frase}<br>
-    <strong> ${frasedoDia.autor}</strong><br>
-`;
+  };
+  
+  resultado += `
+    <h2>Frase do Dia</h2>
+    Data: ${fraseDoDia.dia.toString().padStart(2, '0')}/
+          ${fraseDoDia.mes.toString().padStart(2, '0')}/
+          ${fraseDoDia.ano} <br>
+    Frase: ${fraseDoDia.frase}<br>
+    <strong>Autor:</strong> ${fraseDoDia.autor}<br>
+  `;
+  
 
 // Desafio 03
 const meses = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', '...'];
