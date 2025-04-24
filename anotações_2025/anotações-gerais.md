@@ -6,3 +6,9 @@ ele preparou 0 plano:  Plano de 7 Dias – Domine Arrays, Objetos e Funções, c
 
 
 Vou começar hoje dia 24/04/2025, um curso rápido com o Professor Rodolfo DevClub.
+
+
+DOM dia 24/04/2025
+
+DOM Manipular HTML com o JavaScript
+
