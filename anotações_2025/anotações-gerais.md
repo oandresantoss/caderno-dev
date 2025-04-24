@@ -22,5 +22,5 @@ let titulo = document.querySelector('h1')
     Metodos antigos mais ainda usados
 
     getElementById
-    getelemntByTagName
-    
+    getElemntByTagName
+    getElemntByClassName
