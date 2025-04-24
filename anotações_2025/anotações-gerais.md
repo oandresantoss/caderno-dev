@@ -15,3 +15,10 @@ DOM Manipular HTML com o JavaScript
 let titulo = document.querySelector('h1')
     console.log(titulo)
      console.log(titulo.textContent)
+
+     document.querySelector
+     document.querySelectorAll
+
+    Metodos antigos mais ainda usados
+
+    getElementById
