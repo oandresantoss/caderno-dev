@@ -26,5 +26,6 @@ let titulo = document.querySelector('h1')
     getElemntByClassName
 
 let titulo = document.querySelector('h1')
-titulo.innerHTML = 'Aula DOM' //substitui 
-titulo.textContent = 'Aula DOM'
+
+titulo.textContent = 'Aula DOM' //substitui (nova forma)
+titulo.innerHTML = 'Aula DOM' // mais usado antigamente 
