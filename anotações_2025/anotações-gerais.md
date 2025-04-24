@@ -24,3 +24,7 @@ let titulo = document.querySelector('h1')
     getElementById
     getElemntByTagName
     getElemntByClassName
+
+let titulo = document.querySelector('h1')
+titulo.innerHTML = 'Aula DOM' //substitui 
+titulo.textContent = 'Aula DOM'
