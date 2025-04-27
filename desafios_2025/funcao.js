@@ -16,12 +16,16 @@ console.log(soma(49,34));
 
 
     
-    function nome(NomedaPessoa){
+     function nome(NomedaPessoa){
         console.log(NomedaPessoa)
 }
 
-nome=('Gabriel')
-console.log(nome)
-nome=('Andre')
-console.log(nome)
-nome
+nome('Gabriel')
+nome('Andre')
+nome('Mírian')
+
+    function idade(IdadedaPessoa){
+       console.log(IdadedaPessoa)
+}
+
+idade(37)
