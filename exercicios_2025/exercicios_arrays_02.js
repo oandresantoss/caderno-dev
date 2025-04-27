@@ -16,6 +16,6 @@ for(let i = 0; i <= 4; i++){
 //lista.lenght => (quantiodade de elementos
 // percorre toda quantidade de elementos das listas 
 for(let i = 0; i < frutas.length; i++){
-  console.log("frutas: " + frutas[i]);
+  console.log("fruta: " + frutas[i]);
 }
 
