@@ -11,6 +11,8 @@ let cadastro = [
     }
 ]
 
+cadastro.push({nome: 'Mírian'; idade:31});
+
 console.log(cadastro); //cadastro antes da alteração
 
 const CadaAtualizado = (novosDados) => {
