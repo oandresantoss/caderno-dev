@@ -26,3 +26,10 @@ cadAtualizado({
 
 
 console.log(cadastro);
+
+let n1 = 4554
+let n2 = 234
+
+const soma = (n1,n2) => n1+n2;
+
+console.log(`O valor da soma dos números é = ${soma(n1,n2)}`);
