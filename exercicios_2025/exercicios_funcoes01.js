@@ -4,7 +4,7 @@
 
 
 
-let cadastro[
+let cadastro = [
     {
         nome: 'André',
         idade: 37,
@@ -21,5 +21,6 @@ cadAtualizado({
     nome: 'Felipe',
     idade: 37,
 });
+
 
 console.log(cadastro);
