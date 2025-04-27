@@ -15,7 +15,7 @@ cadastro.push({nome: 'Mírian', idade:31});
 
 console.log(cadastro); //cadastro antes da alteração
 
-const cadaAtualizado = (novosDados) => {
+const cadAtualizado = (novosDados) => {
     Object.assign(cadastro[0], novosDados);
 };
 
