@@ -9,7 +9,7 @@ for (let i = 0; i < jogadores.length; i++){
   console.log(`Os melhores jogadores do Flamengo são:  ${jogadores[i]}`);
 }
 
-//jogadores.push("Luiz Araujo","DelaCruz");
+jogadores.push("Luiz Araujo","DelaCruz");
 //jogadores.unshift("Delacrus","Luiz Araujo");
 //let jogadores1 = jogadores.slice(0,3)
 let teste = [...jogadores, 'Pulgar','Rossi']
