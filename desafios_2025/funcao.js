@@ -29,3 +29,11 @@ nome('Mírian')
 }
 
 idade(37)
+
+
+const guardaNome = (NomeGuardado) =>{
+    console.log(NomeGuardado)
+}
+
+guardaNome('Joselia')
+guardaNome('Luiz')
