@@ -1,14 +1,14 @@
 
 
 
-
+/* Função VOID vazia
 function nome (){
     console.log('Estou dentro da função')
 
 }
 
 nome()
-
+*/
 
 
 function soma (n1,n2){
@@ -17,3 +17,5 @@ function soma (n1,n2){
 }
 
 soma(324,545)
+
+
