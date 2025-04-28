@@ -29,8 +29,9 @@ soma(324,545)
 */
 
 function somaNumeros (n1,n2){
-    soma = n1+n2
+    const soma = n1+n2
     return soma
 }
 
-console.log(soma(234,85))
+const resultado = (23,43)
+console.log(resultado)
