@@ -33,5 +33,7 @@ function somaNumeros (n1,n2){
     return soma
 }
 
-const resultado = (23,43)
+const resultado = somaNumeros(23,43)
 console.log(resultado)
+const resultado2 = somaNumeros(233,532)
+console.log(resultado2)
