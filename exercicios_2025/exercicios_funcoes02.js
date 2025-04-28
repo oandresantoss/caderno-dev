@@ -17,7 +17,7 @@ function incrementa(){
 
 incrementa()
 console.log(valor)
-*/
+
 
 
 function soma (n1,n2){
@@ -26,3 +26,11 @@ function soma (n1,n2){
 }
 
 soma(324,545)
+*/
+
+function somaNumeros (n1,n2){
+    soma = n1+n2
+    return soma
+}
+
+console.log(soma(234,85))
