@@ -1,0 +1,20 @@
+{
+  "name": "caderno-dev",
+  "version": "1.0.0",
+  "description": "🧠 O que é o Caderno de Dev? É uma pasta com arquivos .md (Markdown) onde você registra:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oandresantoss/caderno-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oandresantoss/caderno-dev/issues"
+  },
+  "homepage": "https://github.com/oandresantoss/caderno-dev#readme"
+}
