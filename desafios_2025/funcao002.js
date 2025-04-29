@@ -11,6 +11,7 @@ let cadastro = [{
 
 console.log(cadastro)
 
-const cadAtualizado = () => {
-    () => ('')
+const cadAtualizado = (AtualiaCad) => {
+    const cadAtualizado = cadastro
+   
 }
