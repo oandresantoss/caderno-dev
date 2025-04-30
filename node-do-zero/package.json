@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "🧠 O que é o Caderno de Dev? É uma pasta com arquivos .md (Markdown) onde você registra:",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
